@@ -33,7 +33,7 @@ CRUD é uma tela que é possível incluir, alterar, buscar, deletar o usuário.
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto acessando a pasta Target e realizando o download.
+Você pode visualizar o layout do projeto acessando este link e realizando o download https://github.com/SoaresRegis/crud-springboot-rest-api/tree/main/target 
 
 ## :memo: Licença
 
